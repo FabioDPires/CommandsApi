@@ -19,9 +19,11 @@ If it is your first time using the API you will need to create a Login in the se
   
 Then you must open the cmd and enter the command `dotnet ef database update` to create the database
 
-## Using the API
+## Using The API
 
 In order to use the API you must open the cmd and insert the command `dotnet run`.
 You can consume it's services by using [Swagger](http://localhost:5000/index.html)
   
-
+## Requisites To Run The Project
+  - Have .NET installed
+  - Have the Login mentioned in Getting Started
