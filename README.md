@@ -27,3 +27,7 @@ You can consume it's services by using [Swagger](http://localhost:5000/index.htm
 ## Requisites To Run The Project
   - Have .NET installed
   - Have the Login mentioned in Getting Started
+  
+## Future Work
+
+In the future there will be a Front-end built using React
